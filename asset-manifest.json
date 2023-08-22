@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MyfooD/static/css/main.4e598545.css",
+    "main.js": "/MyfooD/static/js/main.366594f2.js",
+    "static/js/787.3adb45fa.chunk.js": "/MyfooD/static/js/787.3adb45fa.chunk.js",
+    "static/media/received_335622548007581.jpeg": "/MyfooD/static/media/received_335622548007581.09c10fb692884841c2e2.jpeg",
+    "static/media/hero.jpg": "/MyfooD/static/media/hero.1e81368c33e75c7c803a.jpg",
+    "static/media/rxxcwbk9ieymxklznujrd70vfzkjmupgr8q2kuyq.png": "/MyfooD/static/media/rxxcwbk9ieymxklznujrd70vfzkjmupgr8q2kuyq.5d6145a134bb22a30999.png",
+    "static/media/ข้าวปลาซาบะเทอริยากิ.jpg": "/MyfooD/static/media/ข้าวปลาซาบะเทอริยากิ.3bb4df0b27171c950cf5.jpg",
+    "static/media/pngegg.png": "/MyfooD/static/media/pngegg.fa51859b9ed38c0af531.png",
+    "index.html": "/MyfooD/index.html",
+    "main.4e598545.css.map": "/MyfooD/static/css/main.4e598545.css.map",
+    "main.366594f2.js.map": "/MyfooD/static/js/main.366594f2.js.map",
+    "787.3adb45fa.chunk.js.map": "/MyfooD/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e598545.css",
+    "static/js/main.366594f2.js"
+  ]
+}
